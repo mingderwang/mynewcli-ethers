@@ -15,11 +15,11 @@ mynewcli
 # Usage
 <!-- usage -->
 ```sh-session
-$ npm install -g eth-account
+$ npm install -g @mingderwang/eth-account
 $ eth-account COMMAND
 running command...
 $ eth-account (-v|--version|version)
-eth-account/0.0.1 darwin-arm64 node-v15.12.0
+@mingderwang/eth-account/0.0.2 darwin-arm64 node-v15.12.0
 $ eth-account --help [COMMAND]
 USAGE
   $ eth-account COMMAND
