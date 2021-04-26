@@ -15,14 +15,14 @@ mynewcli
 # Usage
 <!-- usage -->
 ```sh-session
-$ npm install -g mynewcli
-$ mynewcli COMMAND
+$ npm install -g eth-account
+$ eth-account COMMAND
 running command...
-$ mynewcli (-v|--version|version)
-mynewcli/0.0.0 darwin-arm64 node-v15.12.0
-$ mynewcli --help [COMMAND]
+$ eth-account (-v|--version|version)
+eth-account/0.0.1 darwin-arm64 node-v15.12.0
+$ eth-account --help [COMMAND]
 USAGE
-  $ mynewcli COMMAND
+  $ eth-account COMMAND
 ...
 ```
 <!-- usagestop -->
