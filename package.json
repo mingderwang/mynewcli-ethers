@@ -5,6 +5,9 @@
   "bin": {
     "eth-account": "./bin/run"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": "https://github.com/mingderwang/eth-account/issues",
   "dependencies": {
     "@oclif/command": "^1",
