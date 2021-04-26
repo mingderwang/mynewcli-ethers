@@ -19,7 +19,7 @@ $ npm install -g @mingderwang/eth-account
 $ eth-account COMMAND
 running command...
 $ eth-account (-v|--version|version)
-@mingderwang/eth-account/0.0.2 darwin-arm64 node-v15.12.0
+@mingderwang/eth-account/0.0.3 darwin-arm64 node-v15.12.0
 $ eth-account --help [COMMAND]
 USAGE
   $ eth-account COMMAND

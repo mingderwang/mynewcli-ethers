@@ -1,6 +1,6 @@
 {
   "name": "@mingderwang/eth-account",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Ming-der Wang <mingderwang@gmail.com>",
   "bin": {
     "eth-account": "./bin/run"
